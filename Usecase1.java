@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class UseCase1 {
+class LineComparison  {
     public static void main(String[] args){
         System.out.println("WELCOME TO LINE CPMPARISION COMPUTATION");
         Scanner sc=new Scanner(System.in);
